@@ -1,0 +1,223 @@
+{
+  "menu": {
+    "toogle": "Change direction and language"
+  },
+  "sidebar": {
+    "links": {
+      "clients": "Clients",
+      "sims": "Sim cards",
+      "orders": "Orders",
+      "countries": "Countries",
+      "companies": "Companies"
+    },
+    "logout": "Logout"
+  },
+  "auth": {
+    "title": "Sing In",
+    "email": {
+      "label": "Email address",
+      "required": "Email is required",
+      "placeholder": "Email",
+      "shouldbe": "Email should be the real one"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Password",
+      "required": "Password is required"
+    },
+    "remember-me": "Remember me",
+    "forgot-password": "Forgot Password",
+    "singin": "SING IN"
+  },
+  "clients": {
+    "title": "Clients",
+    "search": {
+      "placeholder": "Search by client name"
+    },
+    "table": {
+      "name": "Name",
+      "surname": "Surname",
+      "mobile": "Mobile",
+      "role": "Role",
+      "company": "Company",
+      "address": "Address",
+      "city": "City",
+      "phone_city": "Phone City",
+      "comments": "Comments"
+    },
+    "modal": {
+      "button_open": "Add client",
+      "button_submit": "Submit",
+      "button_cancel": "Cancel",
+      "title_create": "Add new client",
+      "title_edit": "Edit current client",
+      "name": "Name",
+      "surname": "Surname",
+      "email": "Email",
+      "mobile": "Mobile",
+      "another_mobile": "Another mobile",
+      "role": "Role",
+      "company": "Company",
+      "address": "Address",
+      "city": "City",
+      "phone_city": "Phone City",
+      "zipcode": "Zip code",
+      "additional": "Additional",
+      "comments": "Comments",
+      "placeholders": {
+        "name": "Name",
+        "surname": "Surname",
+        "email": "Email",
+        "mobile": "Mobile",
+        "another_mobile": "Another mobile",
+        "role": "Role",
+        "company": "Company",
+        "address": "Address",
+        "city": "City",
+        "phone_city": "Phone City",
+        "zipcode": "Zip code",
+        "additional": "Additional",
+        "comments": "Comments"
+      }
+    },
+    "text": "List of clients"
+  },
+  "delete_modal": {
+    "clients": "Are you sure you want to delete",
+    "button_delete": "Delete"
+  },
+  "orders": {
+    "title": "Orders",
+    "table": {
+      "client": "Client",
+      "phone": "Phone",
+      "create_date": "Create Date",
+      "creator": "Creator",
+      "item": "Sim card",
+      "company": "Company",
+      "country": "Country",
+      "start_rental": "Start Rental",
+      "end_rental": "End Rental",
+      "total_rental": "Total Rental",
+      "price": "Price",
+      "return_date": "Return Date"
+    },
+    "modal": {
+      "button_open": "Add order",
+      "button_submit": "Submit",
+      "button_cancel": "Cancel",
+      "title_create": "Add new order",
+      "title_edit": "Edit current order",
+      "client": "Client",
+      "phone": "Phone",
+      "create_date": "Create Date",
+      "creator": "Creator",
+      "item": "Sim card",
+      "company": "Company",
+      "country": "Country",
+      "start_rental": "Start Rental",
+      "end_rental": "End Rental",
+      "total_rental": "Total Rental (in days)",
+      "price": "Price ($)",
+      "return_date": "Return Date",
+      "placeholders": {
+        "client": "Client",
+        "phone": "Phone",
+        "create_date": "Create Date",
+        "creator": "Creator",
+        "item": "Sim card",
+        "company": "Company",
+        "country": "Country",
+        "start_rental": "Start Rental",
+        "end_rental": "End Rental",
+        "total_rental": "Total Rental",
+        "price": "Price",
+        "return_date": "Return Date"
+      }
+    },
+    "text": "List of orders"
+  },
+  "sim_cards": {
+    "title": "Sim Cards",
+    "table": {
+      "code": "Code",
+      "company": "Company",
+      "model": "Model",
+      "number": "Number abroad",
+      "isr_number": "Israel Number",
+      "active": "Active",
+      "inactive": "Inactive",
+      "charge_date": "Charge Date"
+    },
+    "modal": {
+      "button_open": "Add sim card",
+      "button_submit": "Submit",
+      "button_cancel": "Cancel",
+      "title_create": "Add new sim card",
+      "title_edit": "Edit current sim card",
+      "code": "Code",
+      "company": "Company",
+      "model": "Model",
+      "number": "Number abroad",
+      "isr_number": "Israel Number",
+      "active": "Active",
+      "inactive": "Inactive",
+      "charge_date": "Charge Date",
+      "placeholders": {
+        "code": "Code",
+        "company": "Company",
+        "model": "Model",
+        "number": "Number abroad",
+        "isr_number": "Israel Number",
+        "active": "Active",
+        "inactive": "Inactive",
+        "charge_date": "Charge Date"
+      }
+    },
+    "text": "List of sim cards"
+  },
+  "navbar": {
+    "icons": {
+      "arrow_link": "chevron-right"
+    }
+  },
+  "countries": {
+    "title": "Countries",
+    "table": {
+      "name": "Name"
+    },
+    "modal": {
+      "button_open": "Add country",
+      "button_submit": "Submit",
+      "button_cancel": "Cancel",
+      "title_create": "Add new country",
+      "title_edit": "Edit current country",
+      "name": "Name",
+      "placeholders": {
+        "name": "Name"
+      }
+    },
+    "text": "List of countries"
+  },
+  "companies": {
+    "title": "Companies",
+    "table": {
+      "name": "Name",
+      "country": "Country"
+    },
+    "modal": {
+      "button_open": "Add company",
+      "button_submit": "Submit",
+      "button_cancel": "Cancel",
+      "title_create": "Add new company",
+      "title_edit": "Edit current company",
+      "name": "Name",
+      "country": "Country",
+      "placeholders": {
+        "name": "Name",
+        "country": "Country"
+      }
+    },
+    "text": "List of companies"
+  }
+}

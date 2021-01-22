@@ -1,0 +1,220 @@
+{
+  "menu": {
+    "toogle": "שנה כיוון ושפה"
+  },
+  "sidebar": {
+    "links": {
+      "clients": "לקוחות",
+      "sims": "כרטיסי סים",
+      "orders": "הזמנות",
+      "countries": "מדינות",
+      "companies": "חברות"
+    },
+    "logout": "להתנתק"
+  },
+  "auth": {
+    "title": "להתחבר",
+    "email": {
+      "label": "כתובת דואל",
+      "required": "נדרש אימייל",
+      "placeholder": "אימייל",
+      "shouldbe": "דואל צריך להיות האמיתי"
+    },
+    "password": {
+      "label": "סיסמה",
+      "placeholder": "סיסמה",
+      "required": "דרושה סיסמא"
+    },
+    "remember-me": "זכור אותי",
+    "forgot-password": "שכחת ססמא",
+    "singin": "להתחבר"
+  },
+  "clients": {
+    "title": "לקוחות",
+    "search": {
+      "placeholder": "חפש לפי שם הלקוח"
+    },
+    "table": {
+      "name": "שֵׁם",
+      "surname": "שֵׁם מִשׁפָּחָה",
+      "mobile": "נייד",
+      "role": "תַפְקִיד",
+      "company": "חֶברָה",
+      "address": "כתובת",
+      "city": "עִיר",
+      "phone_city": "טלפון סיטי",
+      "comments": "הערות"
+    },
+    "modal": {
+      "button_open": "הוסף לקוח",
+      "button_submit": "שלח",
+      "button_cancel": "לְבַטֵל",
+      "title_create": "הוסף לקוח חדש",
+      "title_edit": "ערוך לקוח נוכחי",
+      "name": "שֵׁם",
+      "surname": "שֵׁם מִשׁפָּחָה",
+      "email": "אימייל",
+      "mobile": "נייד",
+      "another_mobile": "עוד נייד",
+      "role": "תַפְקִיד",
+      "company": "חֶברָה",
+      "address": "כתובת",
+      "city": "עִיר",
+      "phone_city": "טלפון סיטי",
+      "zipcode": "מיקוד",
+      "additional": "נוֹסָף",
+      "comments": "הערות",
+      "placeholders": {
+        "name": "שֵׁם",
+        "surname": "שֵׁם מִשׁפָּחָה",
+        "email": "אימייל",
+        "mobile": "נייד",
+        "another_mobile": "עוד נייד",
+        "role": "תַפְקִיד",
+        "company": "חֶברָה",
+        "address": "כתובת",
+        "city": "עִיר",
+        "phone_city": "טלפון סיטי",
+        "zipcode": "מיקוד",
+        "additional": "נוֹסָף",
+        "comments": "הערות"
+      }
+    },
+    "text": "רשימת לקוחות"
+  },
+  "delete_modal": {
+    "clients": "אתה בטוח שאתה רוצה למחוק",
+    "button_delete": "לִמְחוֹק"
+  },
+  "orders": {
+    "title": "הזמנות",
+    "table": {
+      "client": "לָקוּחַ",
+      "phone": "מכשיר טלפון",
+      "create_date": "צור תאריך",
+      "creator": "בורא",
+      "item": "פריט",
+      "company": "חֶברָה",
+      "country": "מדינה",
+      "start_rental": "התחל להשכיר",
+      "end_rental": "השכרת סוף",
+      "total_rental": "סך כל ההשכרה",
+      "price": "מחיר",
+      "return_date": "תאריך חזרה"
+    },
+    "modal": {
+      "button_open": "הוסף הזמנה",
+      "button_submit": "שלח",
+      "button_cancel": "לְבַטֵל",
+      "title_create": "הוסף הזמנה חדשה",
+      "title_edit": "ערוך את ההזמנה הנוכחית",
+      "client": "לָקוּחַ",
+      "phone": "מכשיר טלפון",
+      "create_date": "צור תאריך",
+      "creator": "בורא",
+      "item": "פריט",
+      "company": "חֶברָה",
+      "country": "מדינה",
+      "start_rental": "התחל להשכיר",
+      "end_rental": "השכרת סוף",
+      "total_rental": "סך כל ההשכרה",
+      "price": "מחיר",
+      "return_date": "תאריך חזרה",
+      "placeholders": {
+        "client": "לָקוּחַ",
+        "phone": "מכשיר טלפון",
+        "create_date": "צור תאריך",
+        "creator": "בורא",
+        "item": "פריט",
+        "company": "חֶברָה",
+        "country": "מדינה",
+        "start_rental": "התחל להשכיר",
+        "end_rental": "השכרת סוף",
+        "total_rental": "סך כל ההשכרה",
+        "price": "מחיר",
+        "return_date": "תאריך חזרה"
+      }
+    },
+    "text": "רשימת הזמנות"
+  },
+  "sim_cards": {
+    "title": "כרטיסי סים",
+    "table": {
+      "code": "קוד",
+      "company": "חֶברָה",
+      "model": "דֶגֶם",
+      "number": "מספר בחול",
+      "isr_number": "מספר ישראל",
+      "active": "פָּעִיל",
+      "charge_date": "תאריך טעינה"
+    },
+    "modal": {
+      "button_open": "הוסף כרטיס סים",
+      "button_submit": "שלח",
+      "button_cancel": "לְבַטֵל",
+      "title_create": "הוסף כרטיס סים חדש",
+      "title_edit": "ערוך את כרטיס ה- SIM הנוכחי",
+      "code": "קוד",
+      "company": "חֶברָה",
+      "model": "דֶגֶם",
+      "number": "מספר בחול",
+      "isr_number": "מספר ישראל",
+      "active": "פָּעִיל",
+      "charge_date": "תאריך טעינה",
+      "placeholders": {
+        "code": "קוד",
+        "company": "חֶברָה",
+        "model": "דֶגֶם",
+        "number": "מספר בחול",
+        "isr_number": "מספר ישראל",
+        "active": "פָּעִיל",
+        "charge_date": "תאריך טעינה"
+      }
+    },
+    "text": "רשימת כרטיסי סים"
+  },
+  "navbar": {
+    "icons": {
+      "arrow_link": "chevron-left"
+    }
+  },
+  "countries": {
+    "title": "מדינות",
+    "table": {
+      "name": "שֵׁם"
+    },
+    "modal": {
+      "button_open": "הוסף מדינה",
+      "button_submit": "שלח",
+      "button_cancel": "לְבַטֵל",
+      "title_create": "הוסף מדינה חדשהy",
+      "title_edit": "ערוך את המדינה הנוכחית",
+      "name": "שֵׁם",
+      "placeholders": {
+        "name": "שֵׁם"
+      }
+    },
+    "text": "רשימת מדינות"
+  },
+  "companies": {
+    "title": "חברות",
+    "table": {
+      "name": "שֵׁם",
+      "country": "מדינה"
+    },
+    "modal": {
+      "button_open": "הוסף חברה",
+      "button_submit": "שלח",
+      "button_cancel": "לְבַטֵל",
+      "title_create": "הוסף חברה חדשה",
+      "title_edit": "ערוך את החברה הנוכחית",
+      "name": "שֵׁם",
+      "country": "מדינה",
+      "placeholders": {
+        "name": "שֵׁם",
+        "country": "מדינה"
+      }
+    },
+    "text": "רשימת חברות"
+  }
+}
